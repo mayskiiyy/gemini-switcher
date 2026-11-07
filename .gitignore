@@ -1,0 +1,23 @@
+﻿# Local builds and diagnostics
+*.exe
+!Gemini-Switcher-Setup.exe
+*.log
+*.out
+coverage*
+.codebase-memory/
+
+# Session data and local secrets
+.gemini-switcher/
+accounts.json
+accounts.json.bak
+config.json
+.env
+.env.*
+*.key
+*.pem
+
+# Editors and OS metadata
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,493 @@
+{
+  " из пула?": {
+    "de": "?",
+    "en": "?",
+    "pl": "?",
+    "uk": "?"
+  },
+  "+ имя": {
+    "de": "+ Name",
+    "en": "+ name",
+    "pl": "+ nazwa",
+    "uk": "+ ім’я"
+  },
+  "1% (до упора)": {
+    "de": "1% (Minimum)",
+    "en": "1% (minimum)",
+    "pl": "1% (minimum)",
+    "uk": "1% (мінімум)"
+  },
+  "10% (с запасом)": {
+    "de": "10% (mit Reserve)",
+    "en": "10% (with buffer)",
+    "pl": "10% (z zapasem)",
+    "uk": "10% (із запасом)"
+  },
+  "5% (рекомендуемый)": {
+    "de": "5% (empfohlen)",
+    "en": "5% (recommended)",
+    "pl": "5% (zalecane)",
+    "uk": "5% (рекомендовано)"
+  },
+  "5ч лимит": {
+    "de": "5-Stunden-Limit",
+    "en": "5-hour limit",
+    "pl": "Limit 5 godzin",
+    "uk": "Ліміт 5 годин"
+  },
+  "Toast-оповещения в центре уведомлений": {
+    "de": "Benachrichtigungen im Infobereich",
+    "en": "Notifications in the system tray",
+    "pl": "Powiadomienia w zasobniku systemowym",
+    "uk": "Сповіщення в системному треї"
+  },
+  "Автозапуск с Windows": {
+    "de": "Mit Windows starten",
+    "en": "Start with Windows",
+    "pl": "Uruchamiaj z Windows",
+    "uk": "Запускати з Windows"
+  },
+  "Автопереключение": {
+    "de": "Automatischer Wechsel",
+    "en": "Automatic switching",
+    "pl": "Automatyczne przełączanie",
+    "uk": "Автоматичне перемикання"
+  },
+  "Автопереключение включено": {
+    "de": "Automatischer Wechsel aktiviert",
+    "en": "Auto-switch enabled",
+    "pl": "Automatyczne przełączanie włączone",
+    "uk": "Автоперемикання увімкнено"
+  },
+  "Автопереключение выключено": {
+    "de": "Automatischer Wechsel deaktiviert",
+    "en": "Auto-switch disabled",
+    "pl": "Automatyczne przełączanie wyłączone",
+    "uk": "Автоперемикання вимкнено"
+  },
+  "Аккаунт удален": {
+    "de": "Konto entfernt",
+    "en": "Account removed",
+    "pl": "Konto usunięte",
+    "uk": "Обліковий запис видалено"
+  },
+  "Аккаунты": {
+    "de": "Konten",
+    "en": "Accounts",
+    "pl": "Konta",
+    "uk": "Облікові записи"
+  },
+  "Активен: ": {
+    "de": "Aktiv: ",
+    "en": "Active: ",
+    "pl": "Aktywne: ",
+    "uk": "Активний: "
+  },
+  "Включить": {
+    "de": "Fortsetzen",
+    "en": "Resume",
+    "pl": "Wznów",
+    "uk": "Відновити"
+  },
+  "Войдите в Antigravity и захватите сессию": {
+    "de": "Bei Antigravity anmelden und Sitzung erfassen",
+    "en": "Sign in to Antigravity and capture a session",
+    "pl": "Zaloguj się w Antigravity i przechwyć sesję",
+    "ru": "Войдите в Antigravity и захватите сессию",
+    "uk": "Увійдіть в Antigravity та захопіть сесію"
+  },
+  "Все события": {
+    "de": "Alle Ereignisse",
+    "en": "All events",
+    "pl": "Wszystkie zdarzenia",
+    "uk": "Усі події"
+  },
+  "Выключены": {
+    "de": "Aus",
+    "en": "Off",
+    "pl": "Wyłączone",
+    "uk": "Вимкнено"
+  },
+  "Готов": {
+    "de": "Bereit",
+    "en": "Ready",
+    "pl": "Gotowe",
+    "uk": "Готовий"
+  },
+  "Готов к переключению": {
+    "de": "Bereit zum Wechseln",
+    "en": "Ready to switch",
+    "pl": "Gotowe do przełączenia",
+    "uk": "Готовий до перемикання"
+  },
+  "Добавьте первый аккаунт": {
+    "de": "Erstes Konto hinzufügen",
+    "en": "Add your first account",
+    "pl": "Dodaj pierwsze konto",
+    "ru": "Добавьте первый аккаунт",
+    "uk": "Додайте перший акаунт"
+  },
+  "Загрузка аккаунтов...": {
+    "de": "Konten werden geladen...",
+    "en": "Loading accounts...",
+    "pl": "Ładowanie kont...",
+    "uk": "Завантаження облікових записів..."
+  },
+  "Запрос актуальных квот...": {
+    "de": "Kontingente werden aktualisiert...",
+    "en": "Refreshing quotas...",
+    "pl": "Odświeżanie limitów...",
+    "uk": "Оновлення квот..."
+  },
+  "Запуск в системном трее при загрузке системы": {
+    "de": "Beim Windows-Start im Infobereich starten",
+    "en": "Start in the system tray when Windows starts",
+    "pl": "Uruchamiaj w zasobniku po starcie systemu",
+    "uk": "Запускати в системному треї разом із Windows"
+  },
+  "Захват сессии из Antigravity...": {
+    "de": "Antigravity-Sitzung wird erfasst...",
+    "en": "Capturing Antigravity session...",
+    "pl": "Zapisywanie sesji Antigravity...",
+    "uk": "Збереження сесії Antigravity..."
+  },
+  "Захватить сессию": {
+    "de": "Sitzung erfassen",
+    "en": "Capture session",
+    "pl": "Zapisz sesję",
+    "uk": "Зберегти сесію"
+  },
+  "Захват...": {
+    "de": "Wird erfasst...",
+    "en": "Capturing...",
+    "pl": "Zapisywanie...",
+    "ru": "Захват...",
+    "uk": "Збереження..."
+  },
+  "Имя аккаунта": {
+    "de": "Kontoname",
+    "en": "Account name",
+    "pl": "Nazwa konta",
+    "uk": "Назва облікового запису"
+  },
+  "Имя...": {
+    "de": "Name...",
+    "en": "Name...",
+    "pl": "Nazwa...",
+    "uk": "Ім’я..."
+  },
+  "Квоты обновлены": {
+    "de": "Kontingente aktualisiert",
+    "en": "Quotas updated",
+    "pl": "Limity odświeżone",
+    "uk": "Квоти оновлено"
+  },
+  "Лимит исчерпан: выполнен переход": {
+    "de": "Limit erreicht: Konto gewechselt",
+    "en": "Limit reached: account switched",
+    "pl": "Limit wyczerpany: zmieniono konto",
+    "uk": "Ліміт вичерпано: обліковий запис змінено"
+  },
+  "Лимиты и переключение": {
+    "de": "Limits und Wechsel",
+    "en": "Limits and switching",
+    "pl": "Limity i przełączanie",
+    "uk": "Ліміти та перемикання"
+  },
+  "Настройки": {
+    "de": "Einstellungen",
+    "en": "Settings",
+    "pl": "Ustawienia",
+    "uk": "Налаштування"
+  },
+  "Настройки сохранены": {
+    "de": "Einstellungen gespeichert",
+    "en": "Settings saved",
+    "pl": "Ustawienia zapisane",
+    "uk": "Налаштування збережено"
+  },
+  "Недельный лимит": {
+    "de": "Wochenlimit",
+    "en": "Weekly limit",
+    "pl": "Limit tygodniowy",
+    "uk": "Тижневий ліміт"
+  },
+  "Неделя": {
+    "de": "Woche",
+    "en": "Weekly",
+    "pl": "Tydzień",
+    "uk": "Тиждень"
+  },
+  "Нет активной сессии": {
+    "de": "Keine aktive Sitzung",
+    "en": "No active session",
+    "pl": "Brak aktywnej sesji",
+    "uk": "Немає активної сесії"
+  },
+  "Обзор аккаунтов": {
+    "de": "Kontoübersicht",
+    "en": "Account overview",
+    "pl": "Przegląd kont",
+    "ru": "Обзор аккаунтов",
+    "uk": "Огляд акаунтів"
+  },
+  "Обновить": {
+    "de": "Aktualisieren",
+    "en": "Refresh",
+    "pl": "Odśwież",
+    "uk": "Оновити"
+  },
+  "Обновление...": {
+    "de": "Wird aktualisiert...",
+    "en": "Refreshing...",
+    "pl": "Odświeżanie...",
+    "ru": "Обновление...",
+    "uk": "Оновлення..."
+  },
+  "Отмена": {
+    "de": "Abbrechen",
+    "en": "Cancel",
+    "pl": "Anuluj",
+    "uk": "Скасувати"
+  },
+  "Ошибка захвата": {
+    "de": "Erfassung fehlgeschlagen",
+    "en": "Capture failed",
+    "pl": "Nie udało się zapisać sesji",
+    "uk": "Не вдалося зберегти сесію"
+  },
+  "Ошибка обновления": {
+    "de": "Aktualisierung fehlgeschlagen",
+    "en": "Refresh failed",
+    "pl": "Nie udało się odświeżyć",
+    "uk": "Не вдалося оновити"
+  },
+  "Ошибка переключения": {
+    "de": "Wechsel fehlgeschlagen",
+    "en": "Switch failed",
+    "pl": "Nie udało się przełączyć",
+    "uk": "Не вдалося перемкнути"
+  },
+  "Ошибка сети: ": {
+    "de": "Netzwerkfehler: ",
+    "en": "Network error: ",
+    "pl": "Błąd sieci: ",
+    "uk": "Помилка мережі: "
+  },
+  "Ошибка сохранения": {
+    "de": "Speichern fehlgeschlagen",
+    "en": "Save failed",
+    "pl": "Nie udało się zapisać",
+    "uk": "Не вдалося зберегти"
+  },
+  "Ошибка: ": {
+    "de": "Fehler: ",
+    "en": "Error: ",
+    "pl": "Błąd: ",
+    "uk": "Помилка: "
+  },
+  "Параметры ротации": {
+    "de": "Rotationseinstellungen",
+    "en": "Rotation settings",
+    "pl": "Ustawienia rotacji",
+    "uk": "Налаштування ротації"
+  },
+  "Пауза": {
+    "de": "Pausieren",
+    "en": "Pause",
+    "pl": "Wstrzymaj",
+    "uk": "Пауза"
+  },
+  "Пул аккаунтов": {
+    "de": "Konten-Pool",
+    "en": "Account pool",
+    "pl": "Pula kont",
+    "uk": "Пул облікових записів"
+  },
+  "Переключение сессии...": {
+    "de": "Sitzung wird gewechselt...",
+    "en": "Switching session...",
+    "pl": "Przełączanie sesji...",
+    "uk": "Перемикання сесії..."
+  },
+  "Переключить": {
+    "de": "Wechseln",
+    "en": "Switch",
+    "pl": "Przełącz",
+    "uk": "Перемкнути"
+  },
+  "Порог 5ч окна": {
+    "de": "Schwelle für 5 Stunden",
+    "en": "5-hour threshold",
+    "pl": "Próg 5 godzin",
+    "uk": "Поріг 5 годин"
+  },
+  "Порог недельного окна": {
+    "de": "Wöchentliche Schwelle",
+    "en": "Weekly threshold",
+    "pl": "Próg tygodniowy",
+    "uk": "Тижневий поріг"
+  },
+  "Предохранитель от блокировки на неделю": {
+    "de": "Schutz vor Erschöpfung des Wochenlimits",
+    "en": "Protect against exhausting the weekly quota",
+    "pl": "Ochrona przed wyczerpaniem limitu tygodniowego",
+    "uk": "Захист від вичерпання тижневого ліміту"
+  },
+  "Приложение работает в системном трее": {
+    "de": "Anwendung läuft im Infobereich",
+    "en": "Application is running in the system tray",
+    "pl": "Aplikacja działa w zasobniku systemowym",
+    "uk": "Програма працює в системному треї"
+  },
+  "Применить": {
+    "de": "Übernehmen",
+    "en": "Apply",
+    "pl": "Zastosuj",
+    "uk": "Застосувати"
+  },
+  "Пул пуст. Нажмите «Захватить сессию», чтобы сохранить текущий аккаунт.": {
+    "de": "Noch keine Konten. Erfassen Sie die aktuelle Sitzung.",
+    "en": "No accounts yet. Capture the current session to add one.",
+    "pl": "Brak kont. Zapisz bieżącą sesję, aby dodać konto.",
+    "uk": "Облікових записів ще немає. Збережіть поточну сесію."
+  },
+  "Ротация при остатке скользящего лимита": {
+    "de": "Wechsel beim verbleibenden Kontingent",
+    "en": "Switch at remaining quota",
+    "pl": "Przełącz przy pozostałym limicie",
+    "uk": "Перемикати за залишком квоти"
+  },
+  "Ротация сессии при исчерпании квоты": {
+    "de": "Sitzung bei erschöpftem Kontingent wechseln",
+    "en": "Switch sessions when quota runs out",
+    "pl": "Przełączaj sesję po wyczerpaniu limitu",
+    "uk": "Перемикати сесію після вичерпання квоти"
+  },
+  "Сессия сохранена в пул": {
+    "de": "Sitzung gespeichert",
+    "en": "Session saved",
+    "pl": "Sesja zapisana",
+    "uk": "Сесію збережено"
+  },
+  "Системный язык": {
+    "de": "Systemsprache",
+    "en": "System language",
+    "pl": "Język systemu",
+    "uk": "Мова системи"
+  },
+  "Только смена аккаунта": {
+    "de": "Nur Kontowechsel",
+    "en": "Account switches only",
+    "pl": "Tylko zmiana konta",
+    "uk": "Лише зміна облікового запису"
+  },
+  "Уведомления Windows": {
+    "de": "Windows-Benachrichtigungen",
+    "en": "Windows notifications",
+    "pl": "Powiadomienia Windows",
+    "uk": "Сповіщення Windows"
+  },
+  "Удалить аккаунт ": {
+    "de": "Konto entfernen: ",
+    "en": "Remove account ",
+    "pl": "Usunąć konto ",
+    "uk": "Видалити обліковий запис "
+  },
+  "Удалить аккаунт из пула": {
+    "de": "Konto entfernen",
+    "en": "Remove account",
+    "pl": "Usuń konto",
+    "uk": "Видалити обліковий запис"
+  },
+  "Удалить из пула": {
+    "de": "Konto entfernen",
+    "en": "Remove account",
+    "pl": "Usuń konto",
+    "uk": "Видалити запис"
+  },
+  "Язык": {
+    "de": "Sprache",
+    "en": "Language",
+    "pl": "Język",
+    "uk": "Мова"
+  },
+  "доступен": {
+    "de": "verfügbar",
+    "en": "available",
+    "pl": "dostępny",
+    "uk": "доступний"
+  },
+  "пауза": {
+    "de": "pausiert",
+    "en": "paused",
+    "pl": "wstrzymane",
+    "uk": "призупинено"
+  },
+  "кулдаун": {
+    "de": "Abklingzeit",
+    "en": "cooldown",
+    "pl": "odnowienie",
+    "uk": "кулдаун"
+  },
+  "активен (не в пуле)": {
+    "de": "aktiv (nicht im Pool)",
+    "en": "active (not in pool)",
+    "pl": "aktywny (nie w puli)",
+    "uk": "активний (не в пулі)"
+  },
+  "● активен": {
+    "de": "● aktiv",
+    "en": "● active",
+    "pl": "● aktywne",
+    "uk": "● активний"
+  },
+  "Обновления": {
+    "de": "Updates",
+    "en": "Updates",
+    "pl": "Aktualizacje",
+    "uk": "Оновлення"
+  },
+  "Текущая версия: ": {
+    "de": "Aktuelle Version: ",
+    "en": "Current version: ",
+    "pl": "Aktualna wersja: ",
+    "uk": "Поточна версія: "
+  },
+  "Проверить обновление": {
+    "de": "Nach Updates suchen",
+    "en": "Check for updates",
+    "pl": "Sprawdź aktualizacje",
+    "uk": "Перевірити оновлення"
+  },
+  "Проверка...": {
+    "de": "Prüfen...",
+    "en": "Checking...",
+    "pl": "Sprawdzanie...",
+    "uk": "Перевірка..."
+  },
+  "У вас установлена последняя версия": {
+    "de": "Sie haben die neueste Version",
+    "en": "You have the latest version",
+    "pl": "Masz najnowszą wersję",
+    "uk": "У вас встановлена остання версія"
+  },
+  "Доступно обновление: ": {
+    "de": "Update verfügbar: ",
+    "en": "Update available: ",
+    "pl": "Dostępna aktualizacja: ",
+    "uk": "Доступне оновлення: "
+  },
+  "Скачать": {
+    "de": "Herunterladen",
+    "en": "Download",
+    "pl": "Pobierz",
+    "uk": "Завантажити"
+  },
+  "Ошибка проверки: ": {
+    "de": "Fehler beim Prüfen: ",
+    "en": "Check error: ",
+    "pl": "Błąd sprawdzania: ",
+    "uk": "Помилка перевірки: "
+  }
+}
